@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b48575df-8d72-4d4f-a95b-3144fe19457e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/instructor/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/instructor/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/instructor/vendor/composer" />
+      <path value="$PROJECT_DIR$/instructor/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/instructor/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/instructor/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/instructor/vendor/markbaker/matrix" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2IgqwrWwmDKVE6ulGwk37V7EPPk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;RunConfigurationTargetLRU&quot;: [
+      &quot;68a7d1e3-b480-48bf-97a6-aa4792e27074&quot;,
+      &quot;46e13e1d-dca5-4095-a63b-c6232a9b6dfa&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Database Script.project.sql">
+    <configuration name="o6u_onlineq.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/o6u_onlineq.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="68a7d1e3-b480-48bf-97a6-aa4792e27074" />
+      <method v="2" />
+    </configuration>
+    <configuration name="project.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/project.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="46e13e1d-dca5-4095-a63b-c6232a9b6dfa" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.project.sql" />
+        <item itemvalue="Database Script.o6u_onlineq.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b48575df-8d72-4d4f-a95b-3144fe19457e" name="Changes" comment="" />
+      <created>1670613818929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670613818929</updated>
+      <workItem from="1670613821932" duration="1313000" />
+      <workItem from="1670617489706" duration="1284000" />
+      <workItem from="1670686904464" duration="1720000" />
+      <workItem from="1670688846886" duration="10155000" />
+      <workItem from="1670756852792" duration="10456000" />
+      <workItem from="1670865505285" duration="603000" />
+      <workItem from="1672250861943" duration="4731000" />
+      <workItem from="1672313046050" duration="209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

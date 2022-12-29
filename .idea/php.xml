@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/instructor/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/instructor/vendor/composer" />
+      <path value="$PROJECT_DIR$/instructor/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/instructor/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/instructor/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/instructor/vendor/markbaker/matrix" />
+    </include_path>
+  </component>
+</project>
